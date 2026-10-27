@@ -10,3 +10,7 @@ Please add your student number below.
  - Elena (@yeahelena): 
  - Dylan (@dylancoady1): 
  - Artemii (@):
+
+ ## Editing Etiquette
+ - Please make a feature branch if you're working on something.
+ - Please make a pull request, rather than committing directly to the master branch, so we can all have a look, thanks.
