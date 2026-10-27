@@ -7,7 +7,7 @@ Please add your student number below.
 
  - El (@yakowa): 124362326
  - Dan (@danbokete): 
- - Elena (@yeahelena): 
+ - Elena (@yeahelena): 123340853
  - Dylan (@dylancoady1): 
  - Artemii (@):
 
